@@ -24,7 +24,11 @@ p {
 }
 
 .contact {
-  margin-top: 120px;
+  margin-top: 100px;
+}
+
+.icon {
+  width: 30%;
 }
 
 .parallax-container {
