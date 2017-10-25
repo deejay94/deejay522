@@ -17,14 +17,20 @@ p {
 
 .btn {
   margin-top: 180px;
+  /*background-color: transparent;*/
 }
 
 .button-collapse {
   color: #26a69a;
 }
 
-.contact {
-  margin-top: 100px;
+.contact a {
+  margin-top: 210px;
+  float: left;
+  display: block;
+  border: 2px solid #fbfdff;
+  margin-right: 5px;
+  padding: 5px;
 }
 
 .icon {
