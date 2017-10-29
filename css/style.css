@@ -17,7 +17,6 @@ p {
 
 .btn {
   margin-top: 180px;
-  /*background-color: transparent;*/
 }
 
 .button-collapse {
@@ -25,7 +24,7 @@ p {
 }
 
 .contact a {
-  margin-top: 210px;
+  margin-top: 260px;
   float: left;
   display: block;
   border: 2px solid #fbfdff;
