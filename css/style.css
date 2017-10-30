@@ -19,8 +19,16 @@ p {
   margin-top: 180px;
 }
 
+.btns {
+margin: 35px 0px 10px 0px;
+}
+
 .button-collapse {
   color: #26a69a;
+}
+
+#capstone {
+  margin-left: 150px;
 }
 
 .contact a {
@@ -32,8 +40,24 @@ p {
   padding: 5px;
 }
 
+.first2 {
+  border: 2px solid #fbfdff;
+  border-color: black;
+  padding: 20px;
+}
+
+#fullstack {
+  margin-left: 150px;
+  }
+
 .icon {
   width: 30%;
+}
+
+.last2 {
+  border: 2px solid #fbfdff;
+  border-color: black;
+  padding: 20px;
 }
 
 .parallax-container {
@@ -48,6 +72,17 @@ p {
 
   #skills {
     text-align: center;
+  }
+
+  .projects {
+    margin: 0 auto;
+    padding: 5px;
+  }
+
+  .prjct-btn {
+    border: 2px solid #e94344;
+    margin-right: 5px;
+    padding: 5px;
   }
 
 @media only screen and (max-width : 992px) {
