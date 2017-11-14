@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #e7717d;
 }
 
 p {
@@ -27,6 +27,11 @@ margin: 35px 0px 10px 0px;
   color: #26a69a;
 }
 
+.caps {
+  color: #e7717d;
+  text-decoration: underline;
+  }
+
 #capstone {
   margin-left: 150px;
 }
@@ -38,12 +43,19 @@ margin: 35px 0px 10px 0px;
   border: 2px solid #fbfdff;
   margin-right: 5px;
   padding: 5px;
+  background-color: #e7717d;
 }
 
 .first2 {
   border: 2px solid #fbfdff;
   border-color: black;
   padding: 20px;
+}
+
+.first2 > img { max-width: 100%; height: auto; }
+
+.first2 a {
+  color: #e7717d;
 }
 
 #fullstack {
@@ -58,6 +70,12 @@ margin: 35px 0px 10px 0px;
   border: 2px solid #fbfdff;
   border-color: black;
   padding: 20px;
+}
+
+.last2 > img { max-width: 100%; height: auto; }
+
+.last2 a {
+  color: #e7717d;
 }
 
 .parallax-container {
@@ -80,9 +98,13 @@ margin: 35px 0px 10px 0px;
   }
 
   .prjct-btn {
-    border: 2px solid #e94344;
+    border: 2px solid #e7717d;
     margin-right: 5px;
     padding: 5px;
+  }
+
+  .prjct-pic {
+    width: 120%;
   }
 
 @media only screen and (max-width : 992px) {
